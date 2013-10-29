@@ -1,0 +1,9 @@
+{
+  "name": "macgyver-table",
+  "version": "0.1.21",
+  "main": [
+    "macgyver-table.js",
+    "macgyver-table.css"
+  ],
+  "dependencies": {}
+}
