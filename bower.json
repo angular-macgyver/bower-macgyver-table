@@ -1,6 +1,6 @@
 {
   "name": "macgyver-table",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "main": [
     "macgyver-table.js",
     "macgyver-table.css"
